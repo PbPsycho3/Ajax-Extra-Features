@@ -65,7 +65,7 @@ You can deploy this bot anywhere.
 </a>
 </p>
 
-<a href="https://youtu.be/kB9TkCs8cX0">
+<a href="https://t.me/MalluHubGP">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
 
@@ -111,5 +111,5 @@ python3 bot.py
 * /broadcast - to broadcast a message to all Ajax users
 ```
 
-<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [𝐀𝐚𝐝𝐡𝐢](https://t.me/Aadhi011)</b>                                                                                                                                                                                     
-<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌𝐖 𝐔𝐩𝐝𝐚𝐭𝐞𝐳](https://t.me/MWUpdatez)</b>
+<b>✮ 𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 ›› [Ajay](https://t.me/Crude_X)</b>                                                                                                                                                                                     
+<b>✮ 𝙲𝙷𝙰𝙽𝙽𝙴𝙻 ›› [𝐌alluHub](https://t.me/MalluHubGP)</b>
